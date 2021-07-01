@@ -48,6 +48,6 @@ C's `scanf`, but it triggered me that I couldn't name the print function just
 `print` (since Godot already uses this name), so I called it `printf` and then
 it would be a crime to call the input function `input`.
 
-Anyway, you have the source, so go already and call it `input`, you monster!
+Anyway, you have the source, so go ahead and call it `input`, you monster!
 
 Have fun c:

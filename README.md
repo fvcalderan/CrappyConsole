@@ -13,6 +13,7 @@ Copyright (c) 2021, Felipe V. Calderan
 All rights reserved.
 See the full license inside LICENSE file
 ```
+![Image](https://github.com/fvcalderan/CrappyConsole/blob/main/screenshot.png?raw=true)
 
 ### Why?
 
@@ -24,7 +25,7 @@ practice plain GDScript.
 ### How to use it
 
 Open the project in Godot and edit `main.gd`. The `_ready` function works like
-C's `main`, or GDSCripts `SceneTree`'s `_init` function.
+C's `main`, or GDScripts `SceneTree`'s `_init` function.
 
 To prompt the user for an input, use the `scanf` function, like this:
 ```gdscript

@@ -34,10 +34,12 @@ var a = yield(scanf("Type the value for A: "), "completed")
 
 To print something to the console, use the `printf` function, like this:
 ```gdscript
-print("The value of A is %f" % a)
+print("The value of A is %f\n" % a)
 ```
 
-Yes, `scanf` is very janky, but it does the job :D
+There's a simple calculator example in the programs's `_ready` function to
+illustrate how it's done in practice. Also... Yes, `scanf` is very janky, but
+it does the job :D
 
 ### Why scanf and not input?
 
